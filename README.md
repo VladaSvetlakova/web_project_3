@@ -1,20 +1,16 @@
-# Project 3: From Portland to Portland
+# From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+Our 3rd project at Practicum by Yandex.
+Functionality of this website so far is not interactive, but is fully responsive to various devices across different viewport sizes.
 
-**Intro**
+## Description
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+Finished product of Project 3. The website is a traveler's guide from Portland, Oregon to Portland,Maine.
 
-**Figma**
+##New
 
-* [Link to the project on Figma](https://www.figma.com/file/lNsn9aE1Be6bvg9FeAzRXT/Sprint-3-From-Portland-to-Portland-desktop-mobile?node-id=0%3A1)
+The only new technology used in this project which was not used before is Figma, which is a tool used for digital products.
 
-**Images**
+**NEW NOTE TO THE REVIEWER**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
 
-Good luck and have fun!
