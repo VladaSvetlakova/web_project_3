@@ -1,0 +1,17 @@
+.state__link{
+  max-width: 456px;
+  min-height: 22px;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.state__link:hover{
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  opacity: 0.8;
+}

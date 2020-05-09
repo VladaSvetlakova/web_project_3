@@ -1,0 +1,14 @@
+.footer__author {
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  color: #FFFFFF;
+  margin: 0;
+  }
+
+  .footer__author:hover{
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    color: #FFFFFF;
+}

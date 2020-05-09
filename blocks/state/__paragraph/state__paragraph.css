@@ -1,0 +1,15 @@
+.state__paragraph{
+  max-width: 484px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .state__paragraph {
+    min-width: 288px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}

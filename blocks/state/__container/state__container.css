@@ -1,0 +1,16 @@
+.state__container {
+  display: block;
+  margin-bottom: 48px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .state__container{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .state__container{
+    display: none;
+  }
+}

@@ -1,0 +1,29 @@
+.lead__image{
+  width: 984px;
+  min-height: 615px;
+  display: flex;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead__image {
+    max-width: calc(100vw - 96px);
+    height: 580px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .lead__image {
+    max-width: 100vw;
+    height: 480px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .lead__image {
+    max-width: 100vw;
+    min-height: 200px;
+  }
+}

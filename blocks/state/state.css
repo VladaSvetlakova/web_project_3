@@ -1,0 +1,15 @@
+@import url("./__title/state__title.css");
+@import url("./__url/state__url.css");
+@import url("./__paragraph/state__paragraph.css");
+@import url("./__name/state__name.css");
+@import url("./__link/state__link.css");
+@import url("./__info/state__info.css");
+@import url("./__image/state__image.css");
+@import url("./__container/state__container.css");
+
+
+.state{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,19 @@
+.footer__link{
+  width: 42px;
+  min-height: 18px;
+  font-size: 18px;
+  line-height: 18px;
+  text-align: center;
+  color: #FFFDFD;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.footer__link:hover{
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: 0.8s;
+  opacity: 50%;
+}
