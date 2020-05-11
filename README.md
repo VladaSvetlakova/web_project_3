@@ -11,6 +11,8 @@ Finished product of Project 3. The website is a traveler's guide from Portland, 
 
 The only new technology used in this project which was not used before is Figma, which is a tool used for digital products.
 
+Link to project:
+https://vladasvetlakova.github.io/web_project_3/
 
 
 
