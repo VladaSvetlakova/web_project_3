@@ -1,10 +1,11 @@
 .state__container {
-  display: block;
-  margin-bottom: 48px;
+  grid-area: container;
+  align-self: flex-end;
 }
 
-@media screen and (max-width: 320px) {
-  .state__container {
+@media screen and (max-width: 500px){
+  .state__container{
     display: none;
   }
 }
+

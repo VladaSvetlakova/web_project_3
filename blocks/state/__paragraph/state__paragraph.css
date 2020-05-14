@@ -1,15 +1,27 @@
-.state__paragraph{
-  max-width: 484px;
-  font-size: 18px;
-  line-height: 30px;
-  color: #FFFFFF;
-
+.state__paragraph {
+  margin: 0;
+    grid-area: paragraph;
+    grid-row: auto;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.67;
+    color: #fff;
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 768px){
   .state__paragraph {
-    min-width: 288px;
+    padding: 0;
     font-size: 16px;
-    line-height: 26px;
-  }
+    line-height: 1.62;
 }
+}
+
+@media screen and (max-width: 454px){
+  .state__paragraph {
+    margin: 0 16px;
+    padding: 0;
+}
+}
+
+
+

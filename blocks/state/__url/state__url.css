@@ -1,7 +1,14 @@
-.state__url{
+/*.state__url{
   max-width: 456px;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 0.2em;
   color: #AAAAAA;
+} */
+
+.state__url{
+  text-transform: uppercase;
+    font-size: 12px;
+    line-height: 1;
+    color: #aaa;
 }

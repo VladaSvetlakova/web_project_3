@@ -1,3 +1,6 @@
 @import url("./__item/grid__item.css");
 @import url("./__items/grid__items.css");
 
+.grid {
+  margin: 92px auto 0;
+}
