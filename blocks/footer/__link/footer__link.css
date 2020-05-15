@@ -15,7 +15,7 @@
   opacity: 50%;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (min-width: 455px) and (max-width: 767px){
   .footer__link {
     font-size: 24px;
     line-height: 24px;
@@ -27,6 +27,6 @@
   .footer__link {
     margin-bottom: 24px;
     font-size: 24px;
-    line-height: 24;
+    line-height: 24px;
   }
 }

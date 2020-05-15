@@ -1,8 +1,10 @@
 .state__link {
   color: white;
-  transition-duration: 0.5s;
+  transition-duration: .5s;
+  font-size: 18px;
+  line-height: 22px;
 }
 
 .state__link:hover{
-  opacity: 0.8;
+  opacity: .8;
 }

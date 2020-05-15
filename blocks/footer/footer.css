@@ -1,12 +1,11 @@
 @import url("./__link/footer__link.css");
 @import url("./__links/footer__links.css");
-@import url("./__content/footer__content.css");
 @import url("./__author/footer__author.css");
 
 .footer {
   max-width: 1184px;
   margin: 92px auto 24px;
-  padding: 0 48px 24px 48px;
+  padding: 0 48px 0 48px;
   display: flex;
   justify-content: space-between;
 }
@@ -19,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (min-width: 455px) and (max-width: 1023px) {
   .footer {
     padding: 0 24px;
     margin: 64px auto 24px;

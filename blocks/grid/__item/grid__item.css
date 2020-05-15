@@ -3,3 +3,9 @@
   height: 100%;
   object-fit: cover;
 }
+
+@media screen and (min-width: 1280px){
+  .grid__item {
+    min-height: 213px;
+  }
+}
