@@ -6,6 +6,24 @@
 
 @media screen and (min-width: 1280px){
   .grid__item {
-    min-height: 213px;
+    height: 213px;
+  }
+}
+
+@media screen and (max-width: 320px ){
+  .grid__item {
+    height: 216px;
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 768px){
+  .grid__item {
+    min-height: 264px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px){
+  .grid__item {
+    min-height: 225px;
   }
 }

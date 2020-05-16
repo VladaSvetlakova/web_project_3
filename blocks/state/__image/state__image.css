@@ -1,6 +1,6 @@
 .state__image {
   grid-area: image;
-    width: 100%;
-    box-sizing: content-box;
+  width: 100%;
+  box-sizing: content-box;
 }
 
